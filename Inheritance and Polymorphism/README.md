@@ -100,6 +100,8 @@ square.printInfo();   // Square colored red, area = 25.00
 circle.printInfo();   // Circle blue, area = 28.27
 cylinder.printInfo(); // Cylinder green, volume = 282.74
 ```
+#Result
+<img width="426" height="349" alt="image" src="https://github.com/user-attachments/assets/10e69de3-0c7c-4897-952f-c37de59c65cd" />
 
 ## Summary
 
