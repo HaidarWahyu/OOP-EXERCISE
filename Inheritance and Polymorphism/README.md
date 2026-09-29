@@ -1,7 +1,5 @@
 # PBO Exercise: Shape, Square, Circle, and Cylinder
 
-A Java OOP exercise applying **Abstraction**, **Encapsulation**, **Inheritance**, and **Polymorphism**, based on the course material *PBO 5-6* (exploration on pages 63-66).
-
 ## Project Structure
 
 ```
